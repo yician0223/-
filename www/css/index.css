@@ -1,0 +1,29 @@
+body{
+	font-family: 微軟正黑體;
+}
+
+#wapper{
+	border: 1px solid red;
+	width: 1024px;
+	margin: 0 auto;
+}
+nav{
+	text-align: center;
+	background-color: #773B1E;
+}
+ul{
+	display: inline-block;
+}
+nav li{
+	list-style-type: none;
+	float: left;
+}
+nav a{
+	display: block;
+	width: 80px;
+	color: #fff;
+	text-decoration: none;
+}
+nav a:hover{
+	color: #B3A5A1;
+}
